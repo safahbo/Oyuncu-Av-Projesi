@@ -10,8 +10,8 @@
 # Project Name (Player-Hunt-Project)
 *Proje Adı* (Oyuncu-Av-Projesi)
 
-A brief, engaging description of your project.  
-Bu proje çeşitli oyunların yaayınlarında hangi ıp adresi ve porta bağlandığını tespiti ve  Wire shark icin hem Capture filters hem de Display filters listelenmesi yapıcağız.
+
+Bu proje çeşitli oyunların yayınlarında hangi ıp adresi ve porta bağlandığını tespiti ve  Wire shark icin hem Capture filters hem de Display filters listelenmesi yapıcağız.
 
 ---
 
