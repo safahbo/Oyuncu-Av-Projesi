@@ -1,42 +1,37 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/safahbo/Oyuncu-Av-Projesi/edit?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/safahbo/Oyuncu-Av-Projesi/edit?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/safahbo/Oyuncu-Av-Projesi/edit?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/safahbo/Oyuncu-Av-Projesi/edit?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# Project Name (Player-Hunt-Project)
+*Proje Adı* (Oyuncu-Av-Projesi)
 
 A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+Bu proje çeşitli oyunların yaayınlarında hangi ıp adresi ve porta bağlandığını tespiti ve  Wire shark icin hem Capture filters hem de Display filters listelenmesi yapıcağız.
 
 ---
 
-## Features / *Özellikler*
+## *Özellikler*
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+ 
+  *Özellik 1: Port tespiti.*
+-  
+  *Özellik 2: IP tespiti.*
+ 
+  *Özellik 3: Wire shark için capture filters listeler.*
 
+  *Özellik 4: Wire shark için Display filters listeler.*
 ---
 
-## Team / *Ekip*
+## *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+- **2420191014** - Safa Hacıbayramoğlu: *Proje Yöneticisi*  
 
+  
 ---
 
 ## Roadmap / *Yol Haritası*
