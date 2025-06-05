@@ -19,7 +19,7 @@ Bu proje çeşitli oyunların yaayınlarında hangi ıp adresi ve porta bağland
 
  
   *Özellik 1: Port tespiti.*
--  
+  
   *Özellik 2: IP tespiti.*
  
   *Özellik 3: Wire shark için capture filters listeler.*
